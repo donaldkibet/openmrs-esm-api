@@ -61,9 +61,13 @@
     "webpack-dev-server": "^3.8.0"
   },
   "dependencies": {
+    "@types/semver": "^6.0.2",
+    "@types/systemjs": "^0.20.6",
     "fhir.js": "0.0.20",
     "lodash-es": "^4.17.15",
     "react": "^16.9.0",
-    "rxjs": "^6.5.3"
+    "rxjs": "^6.5.3",
+    "semver": "^6.3.0",
+    "systemjs": "^6.1.2"
   }
 }
